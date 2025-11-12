@@ -1141,9 +1141,9 @@ export const Frame = () => {
                   Address
                 </div>
                 <p className="[font-family:'Kantumruy',Helvetica] font-normal text-white text-sm tracking-[0] leading-normal">
-                  Na
+                   Baruah Chariali, Jorhat,
                   <br />
-                  
+                  785001, Assam, India
                 </p>
               </address>
             </div>
